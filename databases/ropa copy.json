@@ -1,6 +1,13 @@
 {
   "dataRopa": [
     {
+      "id": 1,
+      "Nombre": "Dice In The Mirror Hoodie",
+      "Precio": 70,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP-JUL21-Dice-Hoodie_750x.png?v=1626999070",
+      "Decripcion": "Need a lift to Bel-Air? We’ve got the cab company for you.Black pullover hoodie with small \"Dice in the Mirror\" graphic hit on front and large \"Dice in the Mirror\" graphic on back."
+    },
+    {
       "id": 2,
       "Nombre": "Dice In The Mirror Tee",
       "Precio": 35,
