@@ -1,0 +1,74 @@
+{
+  "dataRopa": [
+    {
+      "id": 1,
+      "Nombre": "Dice In The Mirror Hoodie",
+      "Precio": 70.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP-JUL21-Dice-Hoodie_750x.png?v=1626999070",
+      "Decripcion": "Need a lift to Bel-Air? We’ve got the cab company for you.Black pullover hoodie with small \"Dice in the Mirror\" graphic hit on front and large \"Dice in the Mirror\" graphic on back."
+    },
+    {
+      "id": 2,
+      "Nombre": "Dice In The Mirror Tee",
+      "Precio": 35.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP-JUL21-Dice-Tee_750x.png?v=1626999098",
+      "Decripcion": "Need a lift to Bel-Air? We’ve got the cab company for you.Neon green shirt with small \"The Fresh Prince\" hit in front and large Dice in the Mirror graphic on back."
+    },
+    {
+      "id": 3,
+      "Nombre": "Fresh Prince Swim Trunks",
+      "Precio": 45.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP-JUL21-Shorts_750x.png?v=1626997784",
+      "Decripcion": "Take on the Summer madness in these Fresh Prince swim shorts."
+    },
+    {
+      "id": 4,
+      "Nombre": "Fresh Prince 8\" Phunny Plush",
+      "Precio": 11.99,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FreshPirince1_750x.jpg?v=1605725314",
+      "Decripcion": "Kidrobot is kick'n it old school with the Fresh Prince of Bel-Air. Celebrating 30 years since the Fresh Prince moved from West Philadelphia and into our hearts, Kidrobot brings to life a new Fresh Prince of Bel-Air collection. This premium 8-inch Fresh Prince Phunny plush will have you doing the Carlton."
+    },
+    {
+      "id": 5,
+      "Nombre": "Crown Sweatshirt",
+      "Precio": 80.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/02FP_WGJ_FP_12511_2_750x.jpg?v=1599697150",
+      "Decripcion": "Let them know you’re 90s royalty with this official The Fresh Prince crown pattern sweater. Throw vintage vibes that Uncle Phil would approve of. Featuring woven The Fresh Prince logo on chest. Navy crown print crew neck sweatshirt with white ribbed collar and waist band. Cotton/Poly blend. "
+    },
+    {
+      "id": 6,
+      "Nombre": "Theme Song Sweatshirt",
+      "Precio": 80.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/01FP_ESS_FP_125761_2_R2_750x.jpg?v=1599699220",
+      "Decripcion": "Classic fit grey sweatshirt cotton/poly blend featuring a nice little story about how Will’s life got flipped upside down. Featuring The Fresh Prince logo on the front and every single lyric printed on the back."
+    },
+    {
+      "id": 7,
+      "Nombre": "Red Fresh Prince Hoodie",
+      "Precio": 85.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP_WebReady_FP_13784_750x.jpg?v=1599694623",
+      "Decripcion": "Red hoodie with FP applique on front. Blue ribbed waist band band and cuffs. Kangaroo pocket. Contrasting paisley lined hood. Cotton/Poly blend."
+    },
+    {
+      "id": 8,
+      "Nombre": "Graffiti Windbreaker",
+      "Precio": 125.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/01FP_WebReady_FP_12806_2_750x.jpg?v=1599694736",
+      "Decripcion": "Straight from the intro of The Fresh Prince - this windbreaker features the iconic illustrations you know and love. Full zip with hood and cuffed sleeves it’s a true throwback to The Fresh Prince-verse."
+    },
+    {
+      "id": 9,
+      "Nombre": "Fresh Prince Face Mask 4-Pack",
+      "Precio": 30.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP_WGJ_FP_120411_750x.jpg?v=1599699928",
+      "Decripcion": "The official back to school masks for Bel-Air Academy. These will keep you out of trouble with Uncle Phil and your momma back home. Featuring the Bel-Air Academy paisley and ear loops big enough for you know who. Each mask is a 100% poly outer with 100% cotton lining and features the official The Fresh Prince logo. "
+    },
+    {
+      "id": 10,
+      "Nombre": "Fresh Stripe Tee",
+      "Precio": 45.0,
+      "Imagen": "https://cdn.shopify.com/s/files/1/0389/3424/9603/products/FP_WebReady_FP_12349_2_R1_750x.jpg?v=1599746997",
+      "Decripcion": "This is not a tee… it’s a decade in shirt form. This official The Fresh Prince shirt is pure 90s drip with stripe after stripe of color. Featuring ringed collar, woven The Fresh Prince logo on chest. 100% cotton"
+    }
+  ]
+}
