@@ -1,6 +1,8 @@
 import RestFetch from "../helpers/RestFetch.js";
 import { eraseContent } from "../helpers/auxFunctions.js";
 const d = document;
+
+// Agrega un producto a la página y a la base de datos.
 d.addEventListener("submit", async (e) => {
   if (e.target.matches("#main-form")) {
     e.preventDefault();
